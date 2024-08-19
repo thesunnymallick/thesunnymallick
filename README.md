@@ -1,7 +1,7 @@
 # <h1 text-center>Hey 👋 I'am Sunny Mallick</h1>
 
 ## About Me
-🔭 I’m currently working on @busybox as software developer<br>👯 I’m looking to collaborate on react.js project<br>🤝 I’m looking for help with  frontend project<br>🌱 I’m currently learning backend<br>💬 Ask me about react.js application<br>⚡ Fun fact I am lazy but smart
+🔭 I’m currently working on @matainja technologie as software developer<br>👯 I’m looking to collaborate on react.js project<br>🤝 I’m looking for help with  frontend project<br>🌱 I’m currently learning backend<br>💬 Ask me about react.js application<br>⚡ Fun fact I am lazy but smart
 
 
 ## 🌐 Socials:
